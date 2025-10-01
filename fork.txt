@@ -1,1 +1,22 @@
-fork
+Eu e o colega Clenio Vitor criamos repositorios no GitHub. Após essa etapa, forkeei o repositório dele e ele colonou o repositório que criei
+repositorios
+Criado por ele:
+Numbcl/NisstonATV
+meu fork:
+lucagermoglio/NisstonATV1
+
+meu repositório:
+lucagermoglio/fork
+forkeado por ele:
+Numbcl/fork
+
+Foram alterados no repositório sem conflitos, a adição de um arquivo em cada repositório
+Logo após a dição do arquivo, voltando ao repositório forkeado há um botão para "merge" e pull request do fork para juntar os arquivos á
+main branch
+O pull request é uma solicitação que você faz ao criador do repositório principal (que você forkeou) para unir os arquivos que você 
+adicionou no repositorio forkeado para o principal.
+Após isso, o criador do repositório que foi forkeado deve ir a página do repositório e vai em pull requests, e assim aceitar o pull request
+Para criar um repositório, o aluno deve ir em sua página, ou até mesmo na principal do github, e ir em "novo" e selecionar "repositório"
+Para forkear um repositório, deve-se ir no repositório do outro aluno e apertar em fork, depois fazer alterações opcionais e confirmar
+Os arquivos que foram feitos alterações após fazer o pull request, eles foram alterados também no repositório original
+
